@@ -1,0 +1,19 @@
+title: TextLog
+description: Minimalist Jekyll theme for documentation site
+baseurl: ''
+url: ''
+author: John Doe
+kramdown:
+  input: GFM
+permalink: pretty
+google_analytics: null
+disqus_shortname: null
+plugins:
+  - jekyll-sitemap
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+  - vendor
+  - Gemfile
+  - script
